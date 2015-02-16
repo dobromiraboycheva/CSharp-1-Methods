@@ -1,0 +1,4 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\Methods\02GetLargestNumber\bin\Debug\02GetLargestNumber.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\Methods\02GetLargestNumber\bin\Debug\02GetLargestNumber.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\Methods\02GetLargestNumber\obj\Debug\02GetLargestNumber.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\Methods\02GetLargestNumber\obj\Debug\02GetLargestNumber.pdb

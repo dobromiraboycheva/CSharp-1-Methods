@@ -1,0 +1,5 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\Methods\04AppearanceCount\bin\Debug\04AppearanceCount.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\Methods\04AppearanceCount\bin\Debug\04AppearanceCount.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\Methods\04AppearanceCount\obj\Debug\04AppearanceCount.csprojResolveAssemblyReference.cache
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\Methods\04AppearanceCount\obj\Debug\04AppearanceCount.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\Methods\04AppearanceCount\obj\Debug\04AppearanceCount.pdb

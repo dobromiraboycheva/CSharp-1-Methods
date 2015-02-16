@@ -1,0 +1,6 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\Methods\01SayHello\bin\Debug\01SayHello.exe.config
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\Methods\01SayHello\obj\Debug\01SayHello.csprojResolveAssemblyReference.cache
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\Methods\01SayHello\bin\Debug\01SayHello.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\Methods\01SayHello\bin\Debug\01SayHello.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\Methods\01SayHello\obj\Debug\01SayHello.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\Methods\01SayHello\obj\Debug\01SayHello.pdb

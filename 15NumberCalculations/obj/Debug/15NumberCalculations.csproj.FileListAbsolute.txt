@@ -1,0 +1,1 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\Methods\15NumberCalculations\bin\Debug\15NumberCalculations.exe.config

@@ -1,0 +1,4 @@
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\Methods\03EnglishDigit\bin\Debug\03EnglishDigit.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\Methods\03EnglishDigit\bin\Debug\03EnglishDigit.pdb
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\Methods\03EnglishDigit\obj\Debug\03EnglishDigit.exe
+C:\Users\Didka\Documents\Visual Studio 2013\TelerikAcademy\CSharp2\Methods\03EnglishDigit\obj\Debug\03EnglishDigit.pdb
